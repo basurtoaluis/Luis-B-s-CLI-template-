@@ -1,4 +1,4 @@
-require_relative "loteria card"
-loteria
-card = loteria_card.new
-cat.adopt
+require_relative "card"
+
+card = Card.new
+card.guess
