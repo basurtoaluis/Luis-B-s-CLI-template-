@@ -1,4 +1,4 @@
-require_relative "card"
+require_relative "GuessingGame"
 
-card = Card.new
-card.guess
+Card = Card.new
+Card.guess
